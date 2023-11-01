@@ -1,0 +1,7 @@
+Example Input: 4
+
+
+A
+BC
+DEF
+GHIJ
