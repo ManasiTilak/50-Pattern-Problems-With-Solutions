@@ -1,7 +1,7 @@
 
 # 50+ Pattern Problems and Solutions in C++
 
-Contains 50+ Pattern Problems and their solutions in C++. 
+Contains 50+ Pattern Problems and their solutions in C++.
 
 
 ## Table of Contents:
@@ -27,3 +27,6 @@ Contains 50+ Pattern Problems and their solutions in C++.
 |16| [Palindrome Pyramid Pattern](https://github.com/ManasiTilak/50-Pattern-Problems-With-Solutions/blob/main/16.palindrome_pyramid_pattern.txt)  | [Solution](https://github.com/ManasiTilak/50-Pattern-Problems-With-Solutions/blob/main/16.palindrome_pyramid_pattern.cpp)  | 
 |17| [Alphabet Triangle Pattern](https://github.com/ManasiTilak/50-Pattern-Problems-With-Solutions/blob/main/17.alphabet_triangle_pattern.txt)  | [Solution](https://github.com/ManasiTilak/50-Pattern-Problems-With-Solutions/blob/main/17.alphabet_triangle_pattern.cpp)  | 
 |18| [Diamond Star Pattern](https://github.com/ManasiTilak/50-Pattern-Problems-With-Solutions/blob/main/18.diamond_star_pattern.txt)  | [Solution](https://github.com/ManasiTilak/50-Pattern-Problems-With-Solutions/blob/main/18.diamond_star_pattern.cpp)  | 
+|19| [Hollow Diamond Pattern](https://github.com/ManasiTilak/50-Pattern-Problems-With-Solutions/blob/main/19.hollow_diamond_pattern.txt)  | [Solution](https://github.com/ManasiTilak/50-Pattern-Problems-With-Solutions/blob/main/19.hollow_diamond_pattern.cpp)  | 
+|20| [Zig Zag Pattern](https://github.com/ManasiTilak/50-Pattern-Problems-With-Solutions/blob/main/20.zigzag_pattern.txt)  | [Solution](https://github.com/ManasiTilak/50-Pattern-Problems-With-Solutions/blob/main/20.zigzag_pattern.cpp)  | 
+|21| [Swirl Pattern](https://github.com/ManasiTilak/50-Pattern-Problems-With-Solutions/blob/main/21%2Cswirl_pattern.txt)  | [Solution](https://github.com/ManasiTilak/50-Pattern-Problems-With-Solutions/blob/main/21.swirl_pattern.cpp)  | 
